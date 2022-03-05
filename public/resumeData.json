@@ -1,0 +1,128 @@
+{
+  "main": {
+    "name": "Erarica Mehra",
+    "occupation": "Full Stack Software Engineer",
+    "description": "I am a developer, designer, data analytics enthusiast and forever learner",
+    "image": "Erarica_Mehra.jpg",
+    "bio": "Hello! I am Erarica Mehra! I am a full-stack software developer based in Boston, MA, United States. I have 4+ years of experience in a small-scale startup as well as in a multinational organization. I am fluent in a wide range of technologies including Java, Javascript, Scala, Apache Spark, React, Apache Cassandra, MySQL, Apache Solr and more. ",
+    "contactmessage": "Get in touch with me!",
+    "email": "mehra.e@northeastern.edu, erarica.mehra@gmail.com",
+    "phone": "+91 1234567899",
+    "address": {
+      "street" : "Boston",
+      "city": "MA",
+      "state": "United States"
+    },
+    "resumedownload": "/resume/myresume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/erarica-mehra-465024130/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Erarica-Mehra",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Programming Skills",
+    "education": [
+      {
+        "school": "Northeastern University, Boston ",
+        "degree": "Master of Science in Software Engineerig Systems ",
+        "graduated": "Expected Graduation Date - May 2023",
+        "description": ""
+      },
+      {
+        "school": "Pune University, Pune",
+        "degree": "Bachelor of Engineering, Computer Science ",
+        "graduated": "2016",
+        "description": "Graduated with First Class Distinction"
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "Generate Product Development Studio",
+        "title": "Technical Lead",
+        "years": "Jan 2021 - Present",
+        "description": "Leading the Website Vision team in building a responsive website in ReactJs with Strapi and Heroku as backend    "
+      },
+
+      {
+        "company": "Aerobay",
+        "title": "Software Engineer",
+        "years": "Sept 2018 - Present",
+        "description": "Building and maintaining REST APIs for the inventory, creating a scalable data model in Apache Cassandra, integration of Payment Gateways like PayPal and Stripe, integration of Fedex web services, improving the performance of the search engine using Apache Solr, code refactoring, bulk upload, database design and UI design "
+      },
+
+      {
+        "company": "Tata Consultancy Services",
+        "title": "Assistant Systems Engineer",
+        "years": "Feb 2017 - Aug 2018",
+        "description": "Developed modules for file reading, data filtering and event processing designed for assigning offers to specific subscribers. Development and maintenance of invoice system in accordance with the new GST(Goods and Service Tax) norms laid down by the government of India. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "100%"
+      },
+      {
+        "name": "Spark",
+        "level": "100%"
+      },
+      {
+        "name": "Cassandra",
+        "level": "100%"
+      },
+      {
+        "name": "MySQL",
+        "level": "100%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Scala",
+        "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Web Development",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone (React JS)",
+        "category": "",
+        "image":"Whatsapp-1.jpg",
+        "url": "https://github.com/Erarica-Mehra/My-WhatsApp"
+      },
+      {
+        "title": "E-commerce Dashboard (Java, Spark, Cassandra)",
+        "category": "",
+        "image": "Dashboard.jpg",
+        "url": "https://github.com/Erarica-Mehra/ProductPerformanceAnalytics"
+      },
+      {
+        "title": "Recommendation Engine",
+        "category": "",
+        "image": "Spark.jpg",
+        "url": "https://github.com/Erarica-Mehra/RecommendationEngineY"
+      }
+    ]
+  }
+ 
+  
+}
