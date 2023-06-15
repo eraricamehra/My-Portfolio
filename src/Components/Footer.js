@@ -17,14 +17,7 @@ const Footer = ({ data }) => {
     <footer>
       <div className="row">
         <div className="twelve columns">
-          <ul className="social-links">{networks}</ul>
-
-          <ul className="copyright">
-            <li>
-              Made by Erarica Mehra
-              
-            </li>
-          </ul>
+         
         </div>
         <div id="go-top">
           <a className="smoothscroll" title="Back to Top" href="#home">

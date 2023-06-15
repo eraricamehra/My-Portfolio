@@ -1,70 +1,89 @@
 {
   "main": {
-    "name": "Erarica Mehra",
-    "occupation": "Full Stack Software Engineer",
-    "description": "I am a developer, designer, data analytics enthusiast and forever learner",
-    "image": "Erarica_Mehra.jpg",
-    "bio": "Hello! I am Erarica Mehra! I am a full-stack software developer based in Boston, MA, United States. I have 4+ years of experience in a small-scale startup as well as in a multinational organization. I am fluent in a wide range of technologies including Java, Javascript, Scala, Apache Spark, React, Apache Cassandra, MySQL, Apache Solr and more. ",
+    "name": "Erarica",
+    "occupation": " ",
+    "description": "Software Engineer, Programmer, avid reader, traveller and Web 3.0 enthusiast",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Erarica! I've been coding for over 4 years now. I am fluent in Java, Javascript, React, Node, MySql, Redis, RabbitMQ, AWS, Cassandra to name a few. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. My most recent work experience was with Amazon Robotics where I worked on a Co-op for 6 months. Beyond my technical skills, I'm actively involved in extracurricular activities. As a Teaching Assistant at Northeastern University, I mentored student project teams, fostering their growth and development. At Generate Build Studio, I led the Website Vision Team, overseeing recruitment, task allocation, and code reviews, while focusing on improving user experiences.",
     "contactmessage": "Get in touch with me!",
-    "email": "mehra.e@northeastern.edu, erarica.mehra@gmail.com",
-    "phone": "+91 1234567899",
+    "email": "mehra.e@gmail.com@northeastern.edu",
+    "phone": "+1 (857)-265-4722",
     "address": {
-      "street" : "Boston",
-      "city": "MA",
-      "state": "United States"
+      "street": "Boylston Street",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02215"
     },
-    "resumedownload": "/resume/myresume.pdf",
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "Erarica_Mehra_2023_SDE.pdf",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/erarica-mehra-465024130/",
+        "url": "https://www.linkedin.com/in/erarica-mehra/",
         "className": "fa fa-linkedin"
       },
+      
       {
         "name": "github",
-        "url": "https://github.com/Erarica-Mehra",
+        "url": "https://github.com/Erarica-Mehra/",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Programming Skills",
+    "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Northeastern University, Boston ",
-        "degree": "Master of Science in Software Engineerig Systems ",
-        "graduated": "Expected Graduation Date - May 2023",
-        "description": ""
-      },
-      {
-        "school": "Pune University, Pune",
-        "degree": "Bachelor of Engineering, Computer Science ",
-        "graduated": "2016",
-        "description": "Graduated with First Class Distinction"
+        "school": "Northeastern University",
+        "degree": "Master of Science, Software Engineering Systems",
+        "description": "Expected Graduation: August 2023"
       }
-      
     ],
+
+    "extracurricular": [
+      {
+        "company": "Northeastern University",
+        "title": "Teching Assistant",
+        "years": "Januaru 2023 - Present",
+        "description": "Mentored 10 student project teams to build a Web 2.0 application using java and Object Oriented Principles, proctored and graded midterms"
+      }, 
+      {
+        "company": "Generate Product Development Studio, Northeastern University",
+        "title": "Project Lead",
+        "years": "Januaru 2022 - December 2022",
+        "description": "Interviewed engineers and designers to be recruited, divided and allocate tasks and performed code reviews. Improved user experience of the application and helped build responsive web pages"
+      }
+    ],
+    
     "work": [
       {
-        "company": "Generate Product Development Studio",
-        "title": "Technical Lead",
-        "years": "Jan 2021 - Present",
-        "description": "Leading the Website Vision team in building a responsive website in ReactJs with Strapi and Heroku as backend    "
+        "company": "Amazon Robotics",
+        "title": "SDE Co-op",
+        "years": "July 2022 - December 2022",
+        "description1": "Built an AWS Lambda solution using boto3 library to automatically onboard data from a Data Lake to AWS Lake Formation, eliminating need to manually onboard data and resulting in more than 90% reduction in time ",
+        "description2": "Conceptualized the architecture of a Data Governance and Discoverability solution, empowering customers to easily explore tables, along with their associated data lineage, eliminating the need to reach out to the support team by 90% ",
+        "description3": "Employed Figma to craft high-fidelity prototypes, offering a visually compelling representation of the solution"
+        
       },
-
       {
         "company": "Aerobay",
         "title": "Software Engineer",
-        "years": "Sept 2018 - Present",
-        "description": "Building and maintaining REST APIs for the inventory, creating a scalable data model in Apache Cassandra, integration of Payment Gateways like PayPal and Stripe, integration of Fedex web services, improving the performance of the search engine using Apache Solr, code refactoring, bulk upload, database design and UI design "
+        "years": "September 2018 - August 2021",
+        "description1": "Implemented an Inventory Analysis tool to extract, transform and load e-commerce data. Devised a high-performance data model in Apache Cassandra to capture raw data and store analyzed data. Created jobs in Apache Spark to remodel raw data to analyzed datasets to gather relevant insights on sales and unique purchases        ",
+        "description2": "Integrated Payment gateways: Paypal and MangoPay, into the e-commerce platform ",
+        "description3": "Improved performance of the Search functionality using Apache Solr, resulting in 75% accurate results in half the time        "
+        
       },
-
       {
-        "company": "Tata Consultancy Services",
+        "company": "Tata Consultancy Service",
         "title": "Assistant Systems Engineer",
-        "years": "Feb 2017 - Aug 2018",
-        "description": "Developed modules for file reading, data filtering and event processing designed for assigning offers to specific subscribers. Development and maintenance of invoice system in accordance with the new GST(Goods and Service Tax) norms laid down by the government of India. "
+        "years": "February 2017 - August 2018",
+        "description1": "Restructured and maintained APIs for MY Vodafone App to receive search request, look for possible prepaid and postpaid plans by calling the web service and create a response for the mobile application in JSON format, thereby reducing the time taken by the request by 30%       ",
+        "description2": "",
+        "description3": ""
+        
       }
+
     ],
     "skills": [
       {
@@ -72,57 +91,81 @@
         "level": "100%"
       },
       {
-        "name": "Spark",
-        "level": "100%"
-      },
-      {
-        "name": "Cassandra",
-        "level": "100%"
-      },
-      {
-        "name": "MySQL",
-        "level": "100%"
-      },
-      {
         "name": "Javascript",
-        "level": "85%"
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "100%"
       },
       {
         "name": "Scala",
         "level": "70%"
       },
       {
-        "name": "React",
-        "level": "50%"
+        "name": "AWS",
+        "level": "70%"
       },
       {
-        "name": "Web Development",
-        "level": "60%"
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "UX Design: Figma",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "WhatsApp Clone (React JS)",
+        "title": "HuskyWorks",
         "category": "",
-        "image":"Whatsapp-1.jpg",
-        "url": "https://github.com/Erarica-Mehra/My-WhatsApp"
+        "image": "Huskyworks.jpg",
+        "url": "https://github.com/eraricamehra/HuskyWorks"
       },
       {
-        "title": "E-commerce Dashboard (Java, Spark, Cassandra)",
+        "title": "Menace Machine",
+        "category": "",
+        "image": "MenaceVsHuman.jpg",
+        "url": "https://github.com/eraricamehra/Menace-Machine"
+      },
+      {
+        "title": "Recommendation engine",
+        "category": "",
+        "image": "Spark.jpg",
+        "url": "https://github.com/Erarica-Mehra/RecommendationEngine"
+      },
+      {
+        "title": "Data Analytics Tool for ecommerce",
         "category": "",
         "image": "Dashboard.jpg",
         "url": "https://github.com/Erarica-Mehra/ProductPerformanceAnalytics"
       },
       {
-        "title": "Recommendation Engine",
+        "title": "Figma Designs: Twitter integration with Amazon ecosystem",
         "category": "",
-        "image": "Spark.jpg",
-        "url": "https://github.com/Erarica-Mehra/RecommendationEngineY"
+        "image": "Amazon+Twitter.jpg",
+        "url": "https://www.figma.com/file/xc0T2iw1lSdJqHCZUZ1kl9/EraricaMehra_Spring2023?type=design&node-id=730-695&t=FNXbvsCHS4HgqJGg-0"
+      },
+      {
+        "title": "Figma Designs: Explore, a community app",
+        "category": "",
+        "image": "Explore.jpg",
+        "url": "https://www.figma.com/file/xc0T2iw1lSdJqHCZUZ1kl9/EraricaMehra_Spring2023?type=design&node-id=620-371&t=FNXbvsCHS4HgqJGg-0"
+      }
+      ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
       }
     ]
   }
- 
-  
 }
